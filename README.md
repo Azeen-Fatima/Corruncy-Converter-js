@@ -40,6 +40,3 @@ CurrencyConverter_FetchAPI/
 └── app.js          # Fetch logic, dropdown population, and event handling
 ```
 
-##  Notes
-
-This project was built purely for learning purposes, to practice using the Fetch API with a real, live data source.
